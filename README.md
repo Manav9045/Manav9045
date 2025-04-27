@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manav</h1>
-<h3 align="center">A passionate Full stack Developer from India</h3>
+<h3 align="center">A passionate NOC Engineer from India</h3>
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="left" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manav9045&label=Profile%20views&color=0e75b6&style=flat" alt="manav9045" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Developer, Frameworks etc.**
+- 🌱 I’m currently learning **Network, Software Infrastructure etc.**
 
 - 👨‍💻 All of my projects are available at [https://glittering-sunshine-41195d.netlify.app/](https://glittering-sunshine-41195d.netlify.app/)
 
